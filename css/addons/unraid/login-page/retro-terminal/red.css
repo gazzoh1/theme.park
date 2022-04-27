@@ -4,7 +4,7 @@
 /* --body-animation: flicker; This is the background that flickers. SET TO NONE TO REMOVE THE FLICKER ANIMATION! */
 /* --custom-text-header-animation: textflicker; /* SET TO NONE TO REMOVE THE FLICKER ANIMATION! */
 
-@import url(https://github.com/gazzoh1/theme.park/blob/master/css/addons/unraid/login-page/retro-terminal/red.css;
+@import url(https://github.com/gazzoh1/theme.park/blob/master/css/addons/unraid/login-page/retro-terminal/red.css);
 :root {
 --main-bg-color: black;
 --body-before: #ff00001a;
